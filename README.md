@@ -2,6 +2,8 @@
 ## 1. python && opencv
 refers to :https://blog.csdn.net/zhou4411781/article/details/95346578
 
+model refers to:https://github.com/tobybreckon/fire-detection-cnn
+model shoule be placed in models/FireNet
 
 # 算法介绍
 ## 算法组成
