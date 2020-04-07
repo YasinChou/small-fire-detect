@@ -72,7 +72,7 @@
 ![firenet 模型结构](http://10.180.9.203:3000/AI_System-and-Algorithm/fire_detection_one_camera/raw/master/pics_temp/model_struct.jpg)
                                    
                                               图1-Firente模型结构图
-![颜色滤波图](http://10.180.9.203:3000/AI_System-and-Algorithm/fire_detection_one_camera/raw/master/pics_temp/color_filter.png)
+![颜色滤波图](https://github.com/YasinChou/small-fire-detect/blob/master/pics_temp/color_filter.png)
                                       图2-颜色滤波得到的角点图                             
 
 ## 检测流程
