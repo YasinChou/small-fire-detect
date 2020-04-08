@@ -1,6 +1,10 @@
 # 环境安装及配置
 ## python && opencv
 refers to :https://blog.csdn.net/zhou4411781/article/details/95346578
+## model
+refers to :https://github.com/tobybreckon/fire-detection-cnn
+
+model should be placed in models/FireNet/ (mkdir -p models/FireNet)
 
 model refers to:https://github.com/tobybreckon/fire-detection-cnn
 
