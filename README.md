@@ -10,7 +10,8 @@ model shoule be placed in models/FireNet(mkdir -p models/FireNet)
 ## 算法组成
 火灾检测算法主要包括：（1）firenet网络模型构建（2）利用RGB颜色模型过滤条件以及帧差法提取每帧图像关键区域（3）构建生产者和消费者模式读取和检测（4）根据消费中检测结果实时显示检测结果
 
-![firenet 模型结构](https://github.com/YasinChou/small-fire-detect/blob/master/pics_temp/model_struct.jpg)
+![firenet 模型结构](https://github.com/YasinChou/small-fire-detect/raw/master/pics_temp/model_struct.jpg)
+
                                    
                                               图1-Firente模型结构图
 ![颜色滤波图](https://github.com/YasinChou/small-fire-detect/blob/master/pics_temp/color_filter.png)
