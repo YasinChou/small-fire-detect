@@ -29,7 +29,7 @@ model shoule be placed in models/FireNet(mkdir -p models/FireNet)
 
 # 运行
 
- （1）对某个录制视频（161-fire_cut.mp4）进行火灾检测
+ （1）对某个录制视频（161-fire_cut.mp4）进行火灾检测，示例结果保存于"161-fire_cut_fire_detect_ret.avi"中
  
      python fire_detection_color_filter_frame_diff_video.py
  
