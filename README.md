@@ -36,3 +36,5 @@ model shoule be placed in models/FireNet(mkdir -p models/FireNet)
  （2）对某一摄像头进行在线火灾检测，在代码中可以指定某个摄像头的id（当前代码中是163号摄像头）
 
      python fire_detection_color_filter_frame_diff_online.py
+# 结果
+参见文件“161-fire_cut_fire_detect_ret.avi”中检测结果
